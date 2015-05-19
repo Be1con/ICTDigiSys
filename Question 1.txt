@@ -1,0 +1,10 @@
+//This is question 1, it's all about theory! #F**kIt!
+
+What's the different between combinatorial and sequential circuit.
+
+Answer in my form. The real answer will show in this text file (and yes, you can download all of this solution that
+I provided in this GitHub everytime!)
+
+Good Luck Guys!
+
+Answer: 
